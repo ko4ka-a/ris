@@ -1,0 +1,5 @@
+﻿  lab10_main.cpp
+  Money.cpp
+C:\Users\User\Desktop\Лабы по инфе 2 семестр\ооп\11 variant\Lab10\Lab10\Money.cpp(62,16): warning C4244: инициализация: преобразование "double" в "long", возможна потеря данных
+  Создание кода...
+  Lab10.vcxproj -> C:\Users\User\Desktop\Лабы по инфе 2 семестр\ооп\11 variant\Lab10\x64\Debug\Lab10.exe
