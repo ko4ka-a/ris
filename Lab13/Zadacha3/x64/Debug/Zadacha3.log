@@ -1,0 +1,3 @@
+﻿  Zadacha3_main.cpp
+C:\Users\olegk\Desktop\Lab7-13\Lab13\Zadacha3\Zadacha3_main.cpp(36,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Zadacha3.vcxproj -> C:\Users\olegk\Desktop\Lab7-13\Lab13\x64\Debug\Zadacha3.exe
