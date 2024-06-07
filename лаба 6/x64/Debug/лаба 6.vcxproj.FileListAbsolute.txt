@@ -1,0 +1,3 @@
+D:\all students workhome\Информатика 2 семестр\лабораторная работа №6\лаба 6\x64\Debug\лаба 6.exe
+D:\all students workhome\Info 1-6\lab 6\лаба 6\x64\Debug\лаба 6.exe
+C:\Users\User\Desktop\Лабы по инфе 2 семестр\ооп\11 variant\lab 6\лаба 6\x64\Debug\лаба 6.exe
